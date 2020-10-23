@@ -1,0 +1,4 @@
+include ':nav-compile'
+include ':nav-annotation'
+include ':app'
+rootProject.name = "hi_router"
